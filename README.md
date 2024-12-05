@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yael-shriki
-- 🌱 I’m currently studying Computer Science at Reichman University.
+
 
 
 <!---
